@@ -10,7 +10,7 @@ Eine Spezialität von TeeniGram sind die Gruppen mit ihrer Superstar-Funktion. E
 der Gruppe, wenn alle anderen Mitglieder der Gruppe dem Mitglied X folgen, aber X selbst keinem anderen Mitglied der Gruppe folgt. Ein Beispiel: Eine kleine Gruppe hat drei Mitglieder, nämlich Selena, Justin und Hailey. Selena folgt Justin, Hailey folgt Justin und Hailey folgt Selena. Justin ist der Superstar.
 Werbetreibende wollen sehr gerne wissen, wer in einer Gruppe der Superstar ist. In TeeniGram ist es aber nicht so einfach, an Informationen heranzukommen. Nur Anfragen der Form „Folgt Mitglied Y Mitglied Z ?“ sind erlaubt, und jede Anfrage kostet einen ganzen Euro. Deshalb sollen möglichst wenige Anfragen gestellt werden.
 
-Aufgabe 1 
+Aufgabe 1 <br>
 Überlege dir ein Verfahren, das nur mit Hilfe solcher Anfragen herausfindet, ob es unter den 
 Mitgliedern einer Gruppe einen Superstar gibt. Falls die Antwort „ja“ lautet, soll der Superstar
 namentlich ausgegeben werden. 
