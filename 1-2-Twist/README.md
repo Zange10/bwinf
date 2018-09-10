@@ -29,7 +29,8 @@ werden in die Irre geführt.
 Jerry kann das kaum glauben: wenn ein Mensch 
 einen Text „enttwisten“ kann, so doch sicher auch 
 eine Maschine. Oder? 
-Aufgabe 2 
+
+Aufgabe 2  <br>
 Hilf Elvis und schreibe ein Programm, das einen 
 Text twistet. 
 Überlege dir, wie ein getwisteter Text 
