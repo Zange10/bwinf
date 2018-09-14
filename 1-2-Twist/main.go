@@ -81,3 +81,7 @@ func twistWord(word string) string {
 	twistedWord += chars[len(word)-1]	//Last letter in word
 	return twistedWord
 }  
+
+func detwist() {
+	//Space for detwisting
+}
