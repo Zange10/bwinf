@@ -1,0 +1,6 @@
+ [
+    {"x": 0, "y": 0, "width": 25, "height": 15, "rotated" : false},
+    {"x": 0, "y": 0,"width": 30, "height": 15, "rotated" : false},
+    {"x": 0, "y": 0,"width": 25, "height": 20, "rotated" : false},
+    {"x": 0, "y": 0,"width": 25, "height": 15, "rotated" : false}
+]

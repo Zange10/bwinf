@@ -1,0 +1,16 @@
+//!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+// NO VALID JSON ! ONLY AS EXAMPLE WITH COMMENTS
+// !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[
+    // Set x and y to zero and rotated to false
+    {"x": 0, "y": 0,"width": 0, "height": 0,"rotated" : false},
+    // Now set your width and height for the garden
+    {"x": 0, "y": 0,"width": 10, "height": 50,"rotated" : false},
+    // Repeat as often as you want and the programm will parse all gardens
+    {"x": 0, "y": 0,"width": 302, "height": 20,"rotated" : false},
+    {"x": 0, "y": 0,"width": 60, "height": 50,"rotated" : false},
+    {"x": 0, "y": 0,"width": ..., "height": ...,"rotated" : false},
+    {"x": 0, "y": 0,"width": ..., "height": ...,"rotated" : false},
+	...
+    {"x": 0, "y": 0,"width": 42, "height": 42,"rotated" : false}
+]
